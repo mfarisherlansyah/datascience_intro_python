@@ -1,0 +1,44 @@
+Name,Dec,Symbol,Name,Dec,Symbol,Name,Dec,Symbol,Name,Dec,Symbol
+(Null character),0,NULL,(Space),32, ,(At sign),64,@,(Grave accent),96,`
+(Start of Header),1,SOH,(Exclamation mark),33,!,(Capital A),65,A,(Lowercase  a ),97,a
+(Start of Text),2,STX,(Quotation mark ; quotes),34,"""",(Capital B),66,B,(Lowercase  b ),98,b
+(End of Text),3,ETX,(Number sign),35,#,(Capital C),67,C,(Lowercase  c ),99,c
+(End of Transmission),4,EOT,(Dollar sign),36,$,(Capital D),68,D,(Lowercase  d ),100,d
+(Enquiry),5,ENQ,(Percent sign),37,%,(Capital E),69,E,(Lowercase  e ),101,e
+(Acknowledgement),6,ACK,(Ampersand),38,&,(Capital F),70,F,(Lowercase  f ),102,f
+(Bell),7,BEL,(Apostrophe),39,',(Capital G),71,G,(Lowercase  g ),103,g
+(Backspace),8,BS,(round brackets or parentheses),40,(,(Capital H),72,H,(Lowercase  h ),104,h
+(Horizontal Tab),9,HT,(round brackets or parentheses),41,),(Capital I),73,I,(Lowercase  i ),105,i
+(Line feed),10,LF,(Asterisk),42,*,(Capital J),74,J,(Lowercase  j ),106,j
+(Vertical Tab),11,VT,(Plus sign),43,+,(Capital K),75,K,(Lowercase  k ),107,k
+(Form feed),12,FF,(Comma),44,",",(Capital L),76,L,(Lowercase  l ),108,l
+(Carriage return),13,CR,(Hyphen),45,-,(Capital M),77,M,(Lowercase  m ),109,m
+(Shift Out),14,SO,"(Dot , full stop)",46,.,(Capital N),78,N,(Lowercase  n ),110,n
+(Shift In),15,SI,(Slash),47,/,(Capital O),79,O,(Lowercase  o ),111,o
+(Data link escape),16,DLE,(number zero),48,0,(Capital P),80,P,(Lowercase  p ),112,p
+(Device control 1),17,DC1,(number one),49,1,(Capital Q),81,Q,(Lowercase  q ),113,q
+(Device control 2),18,DC2,(number two),50,2,(Capital R),82,R,(Lowercase  r ),114,r
+(Device control 3),19,DC3,(number three),51,3,(Capital S),83,S,(Lowercase  s ),115,s
+(Device control 4),20,DC4,(number four),52,4,(Capital T),84,T,(Lowercase  t ),116,t
+(Negative acknowledgement),21,NAK,(number five),53,5,(Capital U),85,U,(Lowercase  u ),117,u
+(Synchronous idle),22,SYN,(number six),54,6,(Capital V),86,V,(Lowercase  v ),118,v
+(End of transmission block),23,ETB,(number seven),55,7,(Capital W),87,W,(Lowercase  w ),119,w
+(Cancel),24,CAN,(number eight),56,8,(Capital X),88,X,(Lowercase  x ),120,x
+(End of medium),25,EM,(number nine),57,9,(Capital Y),89,Y,(Lowercase  y ),121,y
+(Substitute),26,SUB,(Colon),58,:,(Capital Z),90,Z,(Lowercase  z ),122,z
+(Escape),27,ESC,(Semicolon),59,;,(square brackets or box brackets),91,[,(curly brackets or braces),123,{
+(File separator),28,FS,(Less-than sign),60,<,(Backslash),92,\,"(vertical-bar, vbar, vertical line or vertical slash)",124,|
+(Group separator),29,GS,(Equals sign),61,=,(square brackets or box brackets),93,],(curly brackets or braces),125,}
+(Record separator),30,RS,(Greater-than sign ; Inequality) ,62,>,(Caret or circumflex accent),94,^,(Tilde ; swung dash),126,~
+(Unit separator),31,US,(Question mark),63,?,"(underscore , understrike , underbar or low line)",95,_,(Delete),127,DEL
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
